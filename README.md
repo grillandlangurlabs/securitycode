@@ -1,1 +1,1 @@
-# securitycode for stuff
+# security code for stuff and websites
